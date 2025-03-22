@@ -1,4 +1,4 @@
-# 👨‍💻 Manjay Lal Patel | Code Alchemist
+# 👨‍💻 Manjay Patel | Code Alchemist
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=1000¢er=true&vCenter=true&width=500&lines=Code+is+my+canvas%2C+Innovation+my+brush.;Building+the+future+with+AI+%26+MERN.;Coffee+fuels+me%2C+Challenges+drive+me.)](https://git.io/typing-svg)
 
