@@ -4,7 +4,7 @@
 
 ## 🌌 About Me
 
-Hey there! I’m **Manjay Lal Patel**, a passionate **Software Developer** at **Accenture**, where I craft robust solutions and turn complex problems into elegant code. With a **Computer Science** background, I’m on a mission to push the boundaries of technology by blending **AI, Machine Learning**, and **Full-Stack Development** (MERN). I thrive on learning something new every day, transforming ideas into scalable systems, and collaborating with brilliant minds to create impactful software. 🚀
+Hey there! I’m **Manjay Lal Patel**, a passionate **Software Engineer** at **Accenture**, where I craft robust solutions and turn complex problems into elegant code. With a **Computer Science** background, I’m on a mission to push the boundaries of technology by blending **AI, Machine Learning**, and **Full-Stack Development** (MERN). I thrive on learning something new every day, transforming ideas into scalable systems, and collaborating with brilliant minds to create impactful software. 🚀
 
 Currently, I’m seeking **exciting opportunities** to level up my career, dive deeper into **AI-driven applications**, and build cutting-edge **web solutions** with scalable backends. Let’s create something extraordinary together! 💡
 
@@ -62,13 +62,13 @@ Currently, I’m seeking **exciting opportunities** to level up my career, dive 
 ## 🌟 Standout Projects
 
 1. **Traffic Sign Detection**  
-   - Built with **Python, TensorFlow, and OpenCV**.  
-   - An AI model that identifies traffic signs in real-time, deployed on **Google Cloud** for scalability.  
+   - Built with **Python, TensorFlow, CNN and OpenCV**.  
+   - An AI model that identifies traffic signs in real-time.  
    - Perfect for smart transportation systems!
 
 2. **AI Stylist**  
-   - Powered by **Python, scikit-learn**, and **React**.  
-   - A web app that suggests personalized outfits based on user preferences and trends, styled with **Tailwind CSS**.  
+   - Powered by **Python, scikit-learn, CNN** and **React**.  
+   - A web app that suggests personalized outfits based on user preferences and trends.  
 
 3. **Travel Planner**  
    - Full-stack MERN app with **Node.js, Express.js, MongoDB**, and **Google Maps API**.  
@@ -115,28 +115,7 @@ Reach out and let’s build something epic together!
 
 ---
 
-## 💬 Code That Inspires Me
+## 💬 Quote That Inspires Me
 
-> “Programs must be written for people to read, and only incidentally for machines to execute.”  
-> — Harold Abelson
-
-Here’s a snippet of my favorite recursive magic:
-
-```python
-def factorial(n):
-    return 1 if n == 0 else n * factorial(n - 1)
-# Simple, elegant, infinite possibilities.
-<!--
-**ManJS1/ManJS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **"Code is like humor. When you have to explain it, it’s bad."**
+> - Cory House
