@@ -10,15 +10,6 @@ Currently, I’m seeking **exciting opportunities** to level up my career, dive 
 
 ---
 
-## ⚡ What I’m Up To
-
-- **Day Job**: Crafting enterprise-grade solutions at Accenture with a focus on efficiency and innovation.
-- **Side Quests**: Building AI-powered tools and MERN-stack projects to solve real-world challenges.
-- **Current Obsession**: Integrating **TensorFlow** with **Node.js** for intelligent backend systems.
-- **Big Goal**: Designing a scalable, AI-enhanced web platform that redefines user experiences.
-
----
-
 ## 🛠️ Tech Arsenal
 
 ### Core Languages
@@ -59,6 +50,13 @@ Currently, I’m seeking **exciting opportunities** to level up my career, dive 
 
 ---
 
+### 🌍 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjay-lal-patel-b76622284/)  
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/ManJS1)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/im.man_j/?hl=en)  
+
+---
+
 ## 🌟 Standout Projects
 
 1. **Traffic Sign Detection**  
@@ -74,10 +72,6 @@ Currently, I’m seeking **exciting opportunities** to level up my career, dive 
    - Full-stack MERN app with **Node.js, Express.js, MongoDB**, and **Google Maps API**.  
    - Helps users plan trips with AI-driven recommendations and real-time updates, optimized with **Next.js**.
 
-*(Check my repos below for more magic!)*
-
----
-
 ## 🤝 Let’s Collaborate!
 
 I’m on the lookout for **collaboration opportunities** in:  
@@ -86,11 +80,6 @@ I’m on the lookout for **collaboration opportunities** in:
 - **Open-Source**: Contributing to tools that empower developers worldwide.  
 
 Reach out and let’s build something epic together!
-
-### 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjay-lal-patel-b76622284/)  
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/ManJS1)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/im.man_j/?hl=en)  
 
 ---
 
