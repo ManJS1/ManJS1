@@ -72,26 +72,6 @@ Currently, I’m seeking **exciting opportunities** to level up my career, dive 
    - Full-stack MERN app with **Node.js, Express.js, MongoDB**, and **Google Maps API**.  
    - Helps users plan trips with AI-driven recommendations and real-time updates, optimized with **Next.js**.
 
-## 🤝 Let’s Collaborate!
-
-I’m on the lookout for **collaboration opportunities** in:  
-- **AI & Machine Learning**: Building intelligent systems that learn and adapt.  
-- **MERN Stack**: Creating seamless, scalable web applications.  
-- **Open-Source**: Contributing to tools that empower developers worldwide.  
-
-Reach out and let’s build something epic together!
-
----
-
-## 🌱 Learning & Growing
-
-- **Currently Mastering**:  
-  - **SAP**: Streamlining enterprise workflows.  
-  - **AI & ML**: Deepening my expertise in neural networks and predictive models.  
-  - **Google Cloud**: Leveraging cloud infrastructure for scalable deployments.  
-- **Next on My List**: Mastering **Next.js** for SSR and **Kubernetes** for containerized systems.  
-- **Daily Mantra**: *“Code today, conquer tomorrow.”*
-
 ---
 
 ## 📊 GitHub Stats
