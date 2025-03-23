@@ -52,7 +52,7 @@ Currently, I’m seeking **exciting opportunities** to level up my career, dive 
 
 ### 🌍 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjay-lal-patel-b76622284/)  
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/ManJS1)  
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/ManjayS18322606)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/im.man_j/?hl=en)  
 
 ---
